@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-<img src="Screenshot_1.png" alt="main" width="300" height="200"/>
+<img src="Screenshot_1.png" alt="main" width="30%" height="30%"/>
