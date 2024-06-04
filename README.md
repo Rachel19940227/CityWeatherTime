@@ -15,9 +15,9 @@ There is a main page that when user open the app it will show CityWeatherTime in
 </p>
 
 <p align="center">
-  <img src="Screenshot_3.png" alt="main" width="20%" height="20%" />
   <img src="Screenshot_4.png" alt="main" width="20%" height="20%" />
+  <img src="Screenshot_5.png" alt="main" width="20%" height="20%" />
 </p>
-
+<p align="center">
   <img src="Screenshot_6.png" alt="main" width="30%" height="30%" />
 </p>
